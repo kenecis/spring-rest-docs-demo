@@ -1,0 +1,17 @@
+= Spring REST Docs Skill Demo
+:doctype: book
+:source-highlighter: rouge
+:source-language: java
+
+
+Sample application demonstrating how to use Spring REST Docs with Spring Framework's MockMvc
+
+== Curl request
+include::{snippets}/create/curl-request.adoc[]
+
+== Http request
+include::{snippets}/create/http-request.adoc[]
+include::{snippets}/create/request-fields.adoc[]
+
+== Http response
+include::{snippets}/create/http-response.adoc[]
